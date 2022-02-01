@@ -19,4 +19,4 @@ My favorite Wallpapers
 
 ![wet_street](https://github.com/dme86/.wallpapers/blob/main/wet_street.jpeg?raw=true)
 
-![red_aircraft](https://github.com/dme86/.wallpapers/blob/main/red_aircraft.jpeg?raw=true)
+![red_aircraft](https://github.com/dme86/.wallpapers/blob/main/red_aircraft.jpg?raw=true)
