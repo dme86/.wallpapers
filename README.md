@@ -15,8 +15,6 @@ My favorite Wallpapers
 
 ![parking](https://github.com/dme86/.wallpapers/blob/main/parking.jpeg?raw=true)
 
-![the_joker](https://github.com/dme86/.wallpapers/blob/main/the_joker.png?raw=true)
-
 ![wet_street](https://github.com/dme86/.wallpapers/blob/main/wet_street.jpeg?raw=true)
 
 ![red_aircraft](https://github.com/dme86/.wallpapers/blob/main/red_aircraft.jpg?raw=true)
