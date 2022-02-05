@@ -18,3 +18,11 @@ My favorite Wallpapers
 ![wet_street](https://github.com/dme86/.wallpapers/blob/main/wet_street.jpeg?raw=true)
 
 ![red_aircraft](https://github.com/dme86/.wallpapers/blob/main/red_aircraft.jpg?raw=true)
+
+![cyber_head](https://github.com/dme86/.wallpapers/blob/main/cyber_head.jpeg?raw=true)
+
+![power_pole](https://github.com/dme86/.wallpapers/blob/main/power_pole.jpeg?raw=true)
+
+![rubiks_cube](https://github.com/dme86/.wallpapers/blob/main/rubiks_cube.jpeg?raw=true)
+
+![skull_inside](https://github.com/dme86/.wallpapers/blob/main/skull_inside.jpeg?raw=true)
