@@ -26,3 +26,9 @@ My favorite Wallpapers
 ![rubiks_cube](https://github.com/dme86/.wallpapers/blob/main/rubiks_cube.jpeg?raw=true)
 
 ![skull_inside](https://github.com/dme86/.wallpapers/blob/main/skull_inside.jpeg?raw=true)
+
+![amber_portal](https://github.com/dme86/.wallpapers/blob/main/amber_portal.png?raw=true)
+
+![great_waves](https://github.com/dme86/.wallpapers/blob/main/great_waves.jpeg?raw=true)
+
+![sf_tram](https://github.com/dme86/.wallpapers/blob/main/sf_tram.png?raw=true)
