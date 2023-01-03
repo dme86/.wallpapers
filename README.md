@@ -10,6 +10,7 @@ Preview of my favorite Wallpapers
 |![red_aircraft](https://github.com/dme86/.wallpapers/blob/main/red_aircraft.jpg?raw=true)  |![cyber_head](https://github.com/dme86/.wallpapers/blob/main/cyber_head.jpeg?raw=true)  |
 |![power_pole](https://github.com/dme86/.wallpapers/blob/main/power_pole.jpeg?raw=true)  |![rubiks_cube](https://github.com/dme86/.wallpapers/blob/main/rubiks_cube.jpeg?raw=true)  |
 |![skull_inside](https://github.com/dme86/.wallpapers/blob/main/skull_inside.jpeg?raw=true)  |![amber_portal](https://github.com/dme86/.wallpapers/blob/main/amber_portal.png?raw=true)  |
-|![great_waves](https://github.com/dme86/.wallpapers/blob/main/great_waves.jpeg?raw=true)  |![sf_tram](https://github.com/dme86/.wallpapers/blob/main/sf_tram.png?raw=true)  |
-|![national_park](https://github.com/dme86/.wallpapers/blob/main/national_park.jpeg?raw=true)
-|
+![great_waves](https://github.com/dme86/.wallpapers/blob/main/great_waves.jpeg?raw=true)
+|![sf_tram](https://github.com/dme86/.wallpapers/blob/main/sf_tram.png?raw=true)  |![national_park](https://github.com/dme86/.wallpapers/blob/main/national_park.jpeg?raw=true)  |
+|--|--|
+|  |  |
