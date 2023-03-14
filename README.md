@@ -1,9 +1,14 @@
 # Wallpapers
 Preview of my favorite Wallpapers
 
-|  |  |
-|--|--|
-|![astronaut_butterflies](https://github.com/dme86/.wallpapers/blob/main/astronout_butterflies.jpeg?raw=true =1050x)  |![cybberpunk](https://github.com/dme86/.wallpapers/blob/main/cyberpunk.png?raw=true =1050x)  |
+<table>  <tr>
+<td>
+<img src="https://github.com/dme86/.wallpapers/blob/main/astronout_butterflies.jpeg?raw=true" alt="astronaut_butterflies" width="1050"/> 
+<td>
+<img src="https://github.com/dme86/.wallpapers/blob/main/cyberpunk.png?raw=true" alt="cybberpunk" width="1050"/> 
+</tr>  </table>
+
+
 
 |  | 
 |  -------- |
