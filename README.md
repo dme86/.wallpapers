@@ -68,3 +68,8 @@ Preview of my favorite Wallpapers
 <td>
 <img src="https://github.com/dme86/.wallpapers/files/blob/main/sf_tram.png?raw=true" alt="sf_tram" width="1050"/> 
 </tr>  </table>
+
+<table>  <tr>
+<td>
+<img src="https://github.com/dme86/.wallpapers/files/blob/main/whisper_of_the_heart.png?raw=true" alt="whisper_of_the_heart" width="1050"/> 
+</tr>  </table>
