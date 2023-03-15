@@ -73,3 +73,10 @@ Preview of my favorite Wallpapers
 <td>
 <img src="https://github.com/dme86/.wallpapers/blob/main/files/whisper_of_the_heart.png?raw=true" alt="whisper_of_the_heart" width="1050"/> 
 </tr>  </table>
+
+<table>  <tr>
+<td>
+<img src="https://github.com/dme86/.wallpapers/blob/main/files/entergalactic_lower_manhattan.jpg?raw=true" alt="entergalactic_lower_manhattan" width="1050"/> 
+<td>
+<img src="https://github.com/dme86/.wallpapers/blob/main/files/scenic_views.jpg?raw=true" alt="scenic_views" width="1050"/> 
+</tr>  </table>
