@@ -15,7 +15,7 @@ Preview of my favorite Wallpapers
 
 <table>  <tr>
 <td>
-<img src="https://github.com/dme86/.wallpapers/blob/main/files/japan_room.png?raw=true" alt="japan_room" width="1050"/>
+<img src="https://github.com/dme86/.wallpapers/blob/main/files/island_sunset.jpg?raw=true" alt="island_sunset" width="1050"/>
 <td>
 <img src="https://github.com/dme86/.wallpapers/blob/main/files/lofi_night.jpeg?raw=true" alt="lofi_night" width="1050"/>
 </tr>  </table>
@@ -27,7 +27,7 @@ Preview of my favorite Wallpapers
 
 <table>  <tr>
 <td>
-<img src="https://github.com/dme86/.wallpapers/blob/main/files/parking.jpeg?raw=true" alt="parking" width="1050"/>
+<img src="https://github.com/dme86/.wallpapers/blob/main/files/old_tv_wall.png?raw=true" alt="old_tv_wall" width="1050"/>
 <td>
 <img src="https://github.com/dme86/.wallpapers/blob/main/files/wet_street.jpeg?raw=true" alt="wet_street" width="1050"/>
 </tr>  </table>
@@ -41,7 +41,7 @@ Preview of my favorite Wallpapers
 <td>
 <img src="https://github.com/dme86/.wallpapers/blob/main/files/cyber_head.jpeg?raw=true" alt="cyber_head" width="1050"/>
 <td>
-<img src="https://github.com/dme86/.wallpapers/blob/main/files/amber_portal.png?raw=true" alt="amber_portal" width="1050"/>
+<img src="https://github.com/dme86/.wallpapers/blob/main/files/usa_map.png?raw=true" alt="usa_map" width="1050"/>
 </tr>  </table>
 
 <table>  <tr>
@@ -53,7 +53,7 @@ Preview of my favorite Wallpapers
 <td>
 <img src="https://github.com/dme86/.wallpapers/blob/main/files/national_park.jpeg?raw=true" alt="national_park" width="1050"/>
 <td>
-<img src="https://github.com/dme86/.wallpapers/blob/main/files/power_pole.jpeg?raw=true" alt="power_pole" width="1050"/>
+<img src="https://github.com/dme86/.wallpapers/blob/main/files/canyon.png?raw=true" alt="canyon" width="1050"/>
 </tr>  </table>
 
 <table>  <tr>
@@ -77,7 +77,7 @@ Preview of my favorite Wallpapers
 <td>
 <img src="https://github.com/dme86/.wallpapers/blob/main/files/entergalactic_lower_manhattan.jpg?raw=true" alt="entergalactic_lower_manhattan" width="1050"/>
 <td>
-<img src="https://github.com/dme86/.wallpapers/blob/main/files/scenic_views.jpg?raw=true" alt="scenic_views" width="1050"/>
+<img src="https://github.com/dme86/.wallpapers/blob/main/files/mountain_sunset.png?raw=true" alt="mountain_sunset" width="1050"/>
 </tr>  </table>
 
 <table>  <tr>
