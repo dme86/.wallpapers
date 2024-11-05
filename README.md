@@ -63,7 +63,7 @@ git clone --depth 1 https://github.com/dme86/.wallpapers.git
 
 <table>  <tr>
 <td>
-<img src="https://github.com/dme86/.wallpapers/blob/main/files/skull_inside.jpeg?raw=true" alt="skull_inside" width="1050"/>
+<img src="https://github.com/dme86/.wallpapers/blob/main/files/sunset_city_road.jpg?raw=true" alt="sunset_city_road" width="1050"/>
 </tr>  </table>
 
 <table>  <tr>
