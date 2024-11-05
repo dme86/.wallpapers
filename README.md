@@ -15,7 +15,8 @@ git clone --depth 1 https://github.com/dme86/.wallpapers.git
 
 <table>  <tr>
 <td>
-<img src="https://github.com/dme86/.wallpapers/blob/main/files/happy_reunion.jpeg?raw=true" alt="happy_reunion" width="1050"/>
+<img 
+src="https://github.com/dme86/.wallpapers/blob/main/files/old_tv_wall.png?raw=true" alt="old_tv_wall" width="1050"/>
 </tr>  </table>
 
 <table>  <tr>
@@ -27,12 +28,13 @@ git clone --depth 1 https://github.com/dme86/.wallpapers.git
 
 <table>  <tr>
 <td>
-<img src="https://github.com/dme86/.wallpapers/blob/main/files/ocean_color.jpeg?raw=true" alt="ocean_color" width="1050"/>
+<img 
+src="https://github.com/dme86/.wallpapers/blob/main/files/cyber_head.jpeg?raw=true" alt="cyber_head" width="1050"/>
 </tr>  </table>
 
 <table>  <tr>
 <td>
-<img src="https://github.com/dme86/.wallpapers/blob/main/files/old_tv_wall.png?raw=true" alt="old_tv_wall" width="1050"/>
+<img src="https://github.com/dme86/.wallpapers/blob/main/files/happy_reunion.jpeg?raw=true" alt="happy_reunion" width="1050"/>
 <td>
 <img src="https://github.com/dme86/.wallpapers/blob/main/files/wet_street.jpeg?raw=true" alt="wet_street" width="1050"/>
 </tr>  </table>
@@ -44,7 +46,7 @@ git clone --depth 1 https://github.com/dme86/.wallpapers.git
 
 <table>  <tr>
 <td>
-<img src="https://github.com/dme86/.wallpapers/blob/main/files/cyber_head.jpeg?raw=true" alt="cyber_head" width="1050"/>
+<img src="https://github.com/dme86/.wallpapers/blob/main/files/ocean_color.jpeg?raw=true" alt="ocean_color" width="1050"/>
 <td>
 <img src="https://github.com/dme86/.wallpapers/blob/main/files/usa_map.png?raw=true" alt="usa_map" width="1050"/>
 </tr>  </table>
@@ -68,14 +70,15 @@ git clone --depth 1 https://github.com/dme86/.wallpapers.git
 
 <table>  <tr>
 <td>
-<img src="https://github.com/dme86/.wallpapers/blob/main/files/great_waves.jpeg?raw=true" alt="great_waves" width="1050"/>
+<img src="https://github.com/dme86/.wallpapers/blob/main/files/whisper_of_the_heart.png?raw=true" alt="whisper_of_the_heart" width="1050"/>
 <td>
 <img src="https://github.com/dme86/.wallpapers/blob/main/files/sf_tram.png?raw=true" alt="sf_tram" width="1050"/>
 </tr>  </table>
 
 <table>  <tr>
 <td>
-<img src="https://github.com/dme86/.wallpapers/blob/main/files/whisper_of_the_heart.png?raw=true" alt="whisper_of_the_heart" width="1050"/>
+<img 
+src="https://github.com/dme86/.wallpapers/blob/main/files/great_waves.jpeg?raw=true" alt="great_waves" width="1050"/>
 </tr>  </table>
 
 <table>  <tr>
@@ -102,4 +105,5 @@ git clone --depth 1 https://github.com/dme86/.wallpapers.git
 <td>
 <img src="https://github.com/dme86/.wallpapers/blob/main/files/tokyo.png?raw=true" alt="tokyo" width="1050"/>
 </tr>  </table>
+
 
