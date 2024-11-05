@@ -1,5 +1,10 @@
 # Wallpapers
-Preview of my favorite Wallpapers
+Preview of my Wallpapers.
+
+Please clone this repository using the following command to download only the latest version and reduce download time:
+```shell
+git clone --depth 1 https://github.com/dme86/.wallpapers.git
+```
 
 <table>  <tr>
 <td>
@@ -97,3 +102,4 @@ Preview of my favorite Wallpapers
 <td>
 <img src="https://github.com/dme86/.wallpapers/blob/main/files/phillies.jpeg?raw=true" alt="phillies" width="1050"/>
 </tr>  </table>
+
