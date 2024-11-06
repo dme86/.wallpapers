@@ -96,9 +96,9 @@ src="https://github.com/dme86/.wallpapers/blob/main/files/great_waves.jpeg?raw=t
 
 <table>  <tr>
 <td>
-<img src="https://github.com/dme86/.wallpapers/blob/main/files/tiny_colorful_town.jpg?raw=true" alt="tiny_colorful_town" width="1050"/>
+<img src="https://github.com/dme86/.wallpapers/blob/main/files/old_farm.png?raw=true" alt="old_farm" width="1050"/>
 <td>
-<img src="https://github.com/dme86/.wallpapers/blob/main/files/colorful_nature.png?raw=true" alt="colorful_nature.png" width="1050"/>
+<img src="https://github.com/dme86/.wallpapers/blob/main/files/fuji.png?raw=true" alt="fuji" width="1050"/>
 </tr>  </table>
 
 <table>  <tr>
