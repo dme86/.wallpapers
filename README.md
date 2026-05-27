@@ -106,4 +106,15 @@ src="https://github.com/dme86/.wallpapers/blob/main/files/great_waves.jpeg?raw=t
 <img src="https://github.com/dme86/.wallpapers/blob/main/files/tokyo.png?raw=true" alt="tokyo" width="1050"/>
 </tr>  </table>
 
+<table>  <tr>
+<td>
+<img src="https://github.com/dme86/.wallpapers/blob/main/files/3d_handdrawn.png?raw=true" alt="3d_handdrawn" width="1050"/>
+<td>
+<img src="https://github.com/dme86/.wallpapers/blob/main/files/skyline.jpg?raw=true" alt="skyline" width="1050"/>
+</tr>  </table>
+
+<table>  <tr>
+<td>
+<img src="https://github.com/dme86/.wallpapers/blob/main/files/pripyat.png?raw=true" alt="pripyat" width="1050"/>
+</tr>  </table>
 
